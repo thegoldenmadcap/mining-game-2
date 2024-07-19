@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jared\\cave thingy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|C:\\Users\\Jared\\cave thingy\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|C:\\Users\\Jared\\cave thingy\\assets\\spriterotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|solutionrelative:assets\\spriterotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|C:\\Users\\Jared\\cave thingy\\assets\\camerarotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|solutionrelative:assets\\camerarotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|C:\\Users\\Jared\\cave thingy\\assets\\healthanddamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|solutionrelative:assets\\healthanddamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|C:\\Users\\Jared\\cave thingy\\assets\\slimeai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|solutionrelative:assets\\slimeai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|C:\\Users\\Jared\\cave thingy\\Assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|solutionrelative:Assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|C:\\Users\\Jared\\cave thingy\\assets\\particlekill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|solutionrelative:assets\\particlekill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|C:\\Users\\Jared\\cave thingy\\assets\\slimehp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|solutionrelative:assets\\slimehp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|C:\\Users\\Jared\\cave thingy\\assets\\raycastshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|solutionrelative:assets\\raycastshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|c:\\users\\jared\\cave thingy\\assets\\raycastinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|solutionrelative:assets\\raycastinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|C:\\Users\\Jared\\cave thingy\\assets\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|solutionrelative:assets\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|C:\\Users\\Jared\\cave thingy\\assets\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|solutionrelative:assets\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|c:\\users\\jared\\cave thingy\\assets\\thefucker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A061F8CC-D301-86B9-1192-885B80A9A9F5}|Assembly-CSharp.csproj|solutionrelative:assets\\thefucker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TheFucker.cs",
+              "DocumentMoniker": "C:\\Users\\Jared\\cave thingy\\Assets\\TheFucker.cs",
+              "RelativeDocumentMoniker": "Assets\\TheFucker.cs",
+              "ToolTip": "C:\\Users\\Jared\\cave thingy\\Assets\\TheFucker.cs",
+              "RelativeToolTip": "Assets\\TheFucker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:45:07.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "playerUI.cs",
+              "DocumentMoniker": "C:\\Users\\Jared\\cave thingy\\Assets\\playerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\playerUI.cs",
+              "ToolTip": "C:\\Users\\Jared\\cave thingy\\Assets\\playerUI.cs",
+              "RelativeToolTip": "Assets\\playerUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:16:55.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "interactable.cs",
+              "DocumentMoniker": "C:\\Users\\Jared\\cave thingy\\Assets\\interactable.cs",
+              "RelativeDocumentMoniker": "Assets\\interactable.cs",
+              "ToolTip": "C:\\Users\\Jared\\cave thingy\\Assets\\interactable.cs",
+              "RelativeToolTip": "Assets\\interactable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:11:02.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RayCastInteract.cs",
+              "DocumentMoniker": "C:\\Users\\Jared\\cave thingy\\Assets\\RayCastInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\RayCastInteract.cs",
+              "ToolTip": "C:\\Users\\Jared\\cave thingy\\Assets\\RayCastInteract.cs",
+              "RelativeToolTip": "Assets\\RayCastInteract.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:36:54.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RayCastShoot.cs",
+              "DocumentMoniker": "C:\\Users\\Jared\\cave thingy\\Assets\\RayCastShoot.cs",
+              "RelativeDocumentMoniker": "Assets\\RayCastShoot.cs",
+              "ToolTip": "C:\\Users\\Jared\\cave thingy\\Assets\\RayCastShoot.cs",
+              "RelativeToolTip": "Assets\\RayCastShoot.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowD4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T03:23:40.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SlimeHP.cs",
+              "DocumentMoniker": "C:\\Users\\Jared\\cave thingy\\Assets\\SlimeHP.cs",
+              "RelativeDocumentMoniker": "Assets\\SlimeHP.cs",
+              "ToolTip": "C:\\Users\\Jared\\cave thingy\\Assets\\SlimeHP.cs",
+              "RelativeToolTip": "Assets\\SlimeHP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:43:53.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "particleKill.cs",
+              "DocumentMoniker": "C:\\Users\\Jared\\cave thingy\\Assets\\particleKill.cs",
+              "RelativeDocumentMoniker": "Assets\\particleKill.cs",
+              "ToolTip": "C:\\Users\\Jared\\cave thingy\\Assets\\particleKill.cs",
+              "RelativeToolTip": "Assets\\particleKill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:13:39.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "healthbar.cs",
+              "DocumentMoniker": "C:\\Users\\Jared\\cave thingy\\Assets\\healthbar.cs",
+              "RelativeDocumentMoniker": "Assets\\healthbar.cs",
+              "ToolTip": "C:\\Users\\Jared\\cave thingy\\Assets\\healthbar.cs",
+              "RelativeToolTip": "Assets\\healthbar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T00:13:26.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SlimeAI.cs",
+              "DocumentMoniker": "C:\\Users\\Jared\\cave thingy\\Assets\\SlimeAI.cs",
+              "RelativeDocumentMoniker": "Assets\\SlimeAI.cs",
+              "ToolTip": "C:\\Users\\Jared\\cave thingy\\Assets\\SlimeAI.cs",
+              "RelativeToolTip": "Assets\\SlimeAI.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:05:17.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthandDamage.cs",
+              "DocumentMoniker": "C:\\Users\\Jared\\cave thingy\\Assets\\HealthandDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\HealthandDamage.cs",
+              "ToolTip": "C:\\Users\\Jared\\cave thingy\\Assets\\HealthandDamage.cs",
+              "RelativeToolTip": "Assets\\HealthandDamage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T00:02:40.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "camerarotation.cs",
+              "DocumentMoniker": "C:\\Users\\Jared\\cave thingy\\Assets\\camerarotation.cs",
+              "RelativeDocumentMoniker": "Assets\\camerarotation.cs",
+              "ToolTip": "C:\\Users\\Jared\\cave thingy\\Assets\\camerarotation.cs",
+              "RelativeToolTip": "Assets\\camerarotation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T22:54:03.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "spriterotation.cs",
+              "DocumentMoniker": "C:\\Users\\Jared\\cave thingy\\Assets\\spriterotation.cs",
+              "RelativeDocumentMoniker": "Assets\\spriterotation.cs",
+              "ToolTip": "C:\\Users\\Jared\\cave thingy\\Assets\\spriterotation.cs",
+              "RelativeToolTip": "Assets\\spriterotation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T22:43:37.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "playermovement.cs",
+              "DocumentMoniker": "C:\\Users\\Jared\\cave thingy\\Assets\\playermovement.cs",
+              "RelativeDocumentMoniker": "Assets\\playermovement.cs",
+              "ToolTip": "C:\\Users\\Jared\\cave thingy\\Assets\\playermovement.cs",
+              "RelativeToolTip": "Assets\\playermovement.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T21:23:08.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
